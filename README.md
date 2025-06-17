@@ -5,6 +5,12 @@
 <p align="center">
 <img src="https://github.com/user-attachments/assets/0b12f32e-95c4-430d-9ca5-372df188efed"
 
+<p>
+  Text before
+  <img src="https://github.com/user-attachments/assets/e2f2a759-d118-4341-acca-cf798b8a4005" alt="Alt text" style="vertical-align: middle; display: inline;">
+  Text after
+</p>
+
 <p align="center">
 <img src="https://github.com/user-attachments/assets/e2f2a759-d118-4341-acca-cf798b8a4005" </p>
 
