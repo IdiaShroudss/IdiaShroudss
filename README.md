@@ -8,4 +8,11 @@
 <p align="center">
 <img src="https://github.com/user-attachments/assets/e2f2a759-d118-4341-acca-cf798b8a4005" </p>
 
-<p align="center">「 Marshal 」୨ৎ ⋮ She/Her ࿔* ┆ .☘︎  Biggest Idia fan ^_^ </p>
+<div align="center">
+<strong>「 Marshal 」୨ৎ ⋮ She/Her ࿔* ┆ .☘︎  Biggest Idia fan ^_^ ~~ </strong>
+  <img src="https://github.com/user-attachments/assets/df844da7-7313-4d92-a924-46f5b118d0d0" alt="aromantic" style="vertical-align: middle; display: inline;">
+</div>
+
+***<p align="center">quiet usually ◡ but i'm always C+H free 🎧 gtc player</p>***
+
+***<p align="center">I can be either the shyest person in the world, or the most talkative person ever.. 50/50***
