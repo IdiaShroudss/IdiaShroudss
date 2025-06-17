@@ -1,11 +1,7 @@
 <p align="center"> <code style="color" : lightskyblue">𝐅𝐨𝐥𝐥𝐨𝐰 𝐦𝐲 𝐠𝐢𝐭𝐡𝐮𝐛 𝐟𝐨𝐫 𝐚 𝐅𝐑𝐄𝐄, 𝐋𝐈𝐅𝐄𝐓𝐈𝐌𝐄 𝐬𝐮𝐩𝐩𝐥𝐲 𝐨𝐟 𝐜𝐡𝐢𝐜𝐤𝐞𝐧 𝐚𝐥𝐟𝐫𝐞𝐝𝐨 🤑</code>  </p>
 
-</p>
-
 <p align="center">
-<img src="https://github.com/user-attachments/assets/45a92b90-5eb7-4971-a8ee-58ca601ba361"
-  </p>
-
+<img src="https://github.com/user-attachments/assets/36f31102-c12a-471a-9182-fa875d0879f1" </p
 
 ***<p align="center"> ♡ sign atabook*** ***<a href="https://verciless.atabook.org/">here ⤸</a>*** 💤 </p>
 <p align="center">
@@ -16,4 +12,5 @@
 </p>
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/36f31102-c12a-471a-9182-fa875d0879f1" </p>
+<img src="https://github.com/user-attachments/assets/45a92b90-5eb7-4971-a8ee-58ca601ba361"
+  </p>
