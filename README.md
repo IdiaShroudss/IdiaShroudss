@@ -11,4 +11,4 @@
 <p align="center">
 <img src="https://github.com/user-attachments/assets/ca46c72c-8d98-499f-a31c-01df24935e77"
 </p>
-<p align="center"> <img src="https://github.com/user-attachments/assets/df817c6f-f2c2-47fb-8962-76595ffb7358"
+  <p align="center"> <img src="https://github.com/user-attachments/assets/df817c6f-f2c2-47fb-8962-76595ffb7358" </p>
