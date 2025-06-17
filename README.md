@@ -9,6 +9,5 @@
 <img src="https://github.com/user-attachments/assets/e2f2a759-d118-4341-acca-cf798b8a4005" </p>
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/c0c9f198-cba5-4714-be44-0efc3794b1a8" />
-<「 Marshal 」୨ৎ ⋮ She/Her ࿔* ┆ .☘︎  Biggest Idia fan ^_^ />
-</p>
+<img src="https://github.com/user-attachments/assets/f35d9c01-cb6f-452e-84c6-9ad728e607c1" </p>
+
