@@ -11,8 +11,9 @@
 <p align="center">
 <img src="https://github.com/user-attachments/assets/ca46c72c-8d98-499f-a31c-01df24935e77"
 </p>
-<h1> <p align="center"> $\text{\color{#4184e1}IDIA'S CORNER}$ </p> </h1>
-<hr>
+<p align="center">
+<img src="https://github.com/user-attachments/assets/549d4719-7133-4b83-b5a7-05b9cda23192"
+  <hr>
 <p align="center">
 <img src="https://github.com/user-attachments/assets/36f31102-c12a-471a-9182-fa875d0879f1" </p>
   
