@@ -5,11 +5,11 @@
 <p align="center">
 <img src="https://github.com/user-attachments/assets/0b12f32e-95c4-430d-9ca5-372df188efed"
 
-<p>
-  Text before
+<div align="center">
+<strong> <a href="https://verciless.atabook.org/">ATABOOK</a> </strong>
   <img src="https://github.com/user-attachments/assets/e2f2a759-d118-4341-acca-cf798b8a4005" alt="Alt text" style="vertical-align: middle; display: inline;">
   Text after
-</p>
+</div>
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/e2f2a759-d118-4341-acca-cf798b8a4005" </p>
