@@ -9,16 +9,10 @@
 <img src="https://github.com/user-attachments/assets/e2f2a759-d118-4341-acca-cf798b8a4005" </p>
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github.com/user-attachments/assets/2bf135aa-b857-4e76-b253-2742a53193b7" alt="Evil idia"/>
-      </td>
-      <td>
-        <p>
-          TEST TEXT HERE OK
-        </p>
-      </td>
-    </tr>
-  </table>
+  <div style="display: inline-block; text-align: left;">
+    <img src="https://github.com/user-attachments/assets/2bf135aa-b857-4e76-b253-2742a53193b7" alt="EVIL" style="vertical-align: middle;">
+    <span style="vertical-align: middle; display: inline-block; margin-left: 10px;">
+      TEXT TEST OK.
+    </span>
+  </div>
 </div>
