@@ -8,6 +8,17 @@
 <p align="center">
 <img src="https://github.com/user-attachments/assets/e2f2a759-d118-4341-acca-cf798b8a4005" </p>
 
-<p align="center">
-<img src="https://github.com/user-attachments/assets/f35d9c01-cb6f-452e-84c6-9ad728e607c1" </p>
-
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github.com/user-attachments/assets/2bf135aa-b857-4e76-b253-2742a53193b7" alt="Evil idia"/>
+      </td>
+      <td>
+        <p>
+          TEST TEXT HERE OK
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
