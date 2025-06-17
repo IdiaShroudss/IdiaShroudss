@@ -16,10 +16,7 @@
 </p>
 
 
-<p align="center">
-<img src="https://github.com/user-attachments/assets/36f31102-c12a-471a-9182-fa875d0879f1" </p>
+<p align="center"> <img src="https://github.com/user-attachments/assets/62bd5082-3b82-4ce9-96b2-e42016179d41" </p>
   
-<p align="center">
-<img src="https://github.com/user-attachments/assets/dc4a7743-9b0a-408a-8af6-3647d1c8a8fb" </p>
 
 
