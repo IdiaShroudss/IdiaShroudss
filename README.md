@@ -10,12 +10,10 @@
 ***<p align="center"> ♡ sign atabook*** ***<a href="https://verciless.atabook.org/">here ⤸</a>*** 💤 </p>
 <p align="center">
 <img src="https://github.com/user-attachments/assets/bf9cd0f0-d6bd-485b-aa92-254f1df3706b" </p>
-<p align="center">
-<img src="https://github.com/user-attachments/assets/81ab4d27-de08-4ccf-a9c2-eaea23e81592"
-
-
-
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/ca46c72c-8d98-499f-a31c-01df24935e77"
 </p>
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/36f31102-c12a-471a-9182-fa875d0879f1" </p>
